@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "cerr3",
+  "description": "cerr3",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/Eugenia19805hei/cerr3",
+  "repository": "https://github.com/Eugenia19805hei/cerr3",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
